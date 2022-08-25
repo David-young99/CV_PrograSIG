@@ -12,10 +12,11 @@ Estudiante de medicina en la Universidad de Oxford y camionero en su tiempo libr
 - Conducción nocturna de cargas pesadas.
 - Trabajo en equipo y en comunidad.
 
-###Experiencia 
+### Experiencia 
 - Radiografías en el hospital San Juan de Dios (2020-2021)
 - Aplicación de la vacuna contra el covid-19 a menores de edad (2021)
-- Manejo de maquinaria para realizar radiografías
+- Manejo de maquinaria para realizar radiografías (2018)
+- Conductor de camión para la empresa Swift en Estados Unidos (2015-2018)
 
 Se puede consultar mi perfil en linkdn en el siguiente link: [linkedin](https://www.linkedin.com/)
 
