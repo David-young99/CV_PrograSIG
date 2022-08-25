@@ -1,6 +1,6 @@
 # David Young Fuentes 
 
-<img src="https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=2000 width="350" height="200">
+<img src="https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=2000" width="350" height="200">
 
 ### Descripción 
 Estudiante de medicina en la Universidad de Oxford y camionero en su tiempo libre, con muchas ansias de encontrar mayor experiencia en sus áreas de interés.
